@@ -1,6 +1,18 @@
 # Campaign_asset_generator
+------------------------------------------------------------------------
 
-Built with **LangGraph**,**Langchain**, **Google Gemini**, **FLUX Image Model**
+## 🧩 Problem Statement
+
+### **Problem 2: Multi-Modal Campaign Asset Generator**
+
+**Statement:**  
+Build an agent that takes a **campaign brief**,  
+generates **multiple ad copy variations**,  
+creates **image-generation prompts** for each,  
+calls an **image-generation API**,  
+evaluates **copy-image coherence**,  
+and packages the **best combinations** with **A/B test recommendations**.
+
 ------------------------------------------------------------------------
 
 ## 🧬 Project Workflow
